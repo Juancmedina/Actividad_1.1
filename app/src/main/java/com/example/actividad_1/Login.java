@@ -41,8 +41,4 @@ public class Login extends AppCompatActivity {
             Toast.makeText(getApplicationContext(),"Usuario o clave incorrecto",Toast.LENGTH_SHORT).show();
         }
     }
-
-    public void Registrar(View view){
-
-    }
 }
